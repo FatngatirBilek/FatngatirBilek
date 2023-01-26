@@ -39,9 +39,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fatngatirbilek/fatngatirbilek/blob/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatngatirbilek/fatngatirbilek/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatngatirbilek/fatngatirbilek/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fatngatirbilek/fatngatirbilek/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div align="center">
   <a href="https://open.spotify.com/user/f02h8unc51ppx1176mgo3jt0c">
