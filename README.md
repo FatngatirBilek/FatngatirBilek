@@ -44,11 +44,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatngatirbilek/fatngatirbilek/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fatngatirbilek/fatngatirbilek/output/github-contribution-grid-snake.svg">
 </picture>
+<br>
+<br>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/f02h8unc51ppx1176mgo3jt0c">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  
+  [![Spotify](https://novatorem-chi-gilt.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+  
 </div>
+
 
 ###
