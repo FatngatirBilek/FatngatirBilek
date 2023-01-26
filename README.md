@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/fatngatirbilek" target="blank"><img src="https://img.shields.io/twitter/follow/fatngatirbilek?logo=twitter&style=for-the-badge" alt="fatngatirbilek" /></a> </p>
 
-- 🌱 I’m currently learning **How To Love U**
+- 🌱 I’m currently learning **How To Love u**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +23,5 @@
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatngatirbilek&show_icons=truetext_color=718096&bg_color=ffffff00&locale=en&layout=compact" alt="fatngatirbilek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatngatirbilek&show_icons=true&text_color=718096&bg_color=ffffff00&locale=en" alt="fatngatirbilek" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatngatirbilek&" alt="fatngatirbilek" /></p>
+![Fathir's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatngatirBilek&show_icons=true&theme=radical)
